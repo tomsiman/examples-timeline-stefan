@@ -1,5 +1,5 @@
-# examples-stefan
-# timeline-stefan
+# examples-timeline-stefan
+
 an example to dev TIMELINE in ionic angular
 
 ## 1. Description
@@ -15,14 +15,14 @@ open your terminal (osx) or command prompt (windows) and type:
 
 $ npm install -g angularjs ionic
 
---- note: for osx need 'sudo'
+--- note: for osx/linux need 'sudo'
 
 ## 3. How To Use
 clone this link, by open terminal and type 
 
-$ git clone https://tomsiman.github.io/timeline-stefan/
+$ git clone https://github.com/tomsiman/examples-timeline-stefan.git
 
-cd timeline-stefan
+$ cd examples-timeline-stefan
 
 $ npm install
 
